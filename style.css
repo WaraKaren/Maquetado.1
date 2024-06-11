@@ -1,5 +1,7 @@
 * {
-  font-family: 'Roboto', sans-serif;
+  font-family: "Cabin Sketch", sans-serif;
+  font-weight: 800;
+  font-style: normal;
 }
 
 main {
@@ -9,7 +11,7 @@ main {
 /*TODO: 1ra vista*/
 .containerOne {
   display: grid;
-  grid-template-columns: minmax(300px 2fr) 3fr; /*2 columnas del mismo tamaño*/
+  grid-template-columns: minmax(300px, 2fr) 3fr; /*2 columnas del mismo tamaño*/
   /*minmax( minimo maximo)*/
   grid-auto-rows: 550px;
 }
@@ -89,7 +91,7 @@ border-top-left-radius: 50px;
   object-fit: contain;
 }
 
-@media screen and (max-width: 533px) {
+@media screen and (max-width: 715px) {
   .containerOne{
   grid-template-columns: minmax(300px, 500px);
 
