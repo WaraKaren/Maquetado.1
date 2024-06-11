@@ -9,7 +9,7 @@ main {
 /*TODO: 1ra vista*/
 .containerOne {
   display: grid;
-  grid-template-columns: minmax(300px 2fr) 3fr; /*2 columnas del mismo tamaño*/
+  grid-template-columns: minmax(300px, 2fr) 3fr; /*2 columnas del mismo tamaño*/
   /*minmax( minimo maximo)*/
   grid-auto-rows: 550px;
 }
