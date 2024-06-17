@@ -1,7 +1,7 @@
 # EmprendeWeb
 
 ### Descripción
-Este proyecto es una página web para **[ESTRELLINA]**, actualmente en desarrollo. El objetivo principal de esta página es mostrar los trabajos realizados por el emprendimiento, compartir información sobre su historia y proporcionar una opción para que los visitantes se redirijan a WhatsApp para realizar consultas o contratar servicios.
+Este proyecto es una página web para **ESTRELLINA**, actualmente en desarrollo. El objetivo principal de esta página es mostrar los trabajos realizados por el emprendimiento, compartir información sobre su historia y proporcionar una opción para que los visitantes se redirijan a WhatsApp para realizar consultas o contratar servicios.
 
 ### Características
 
