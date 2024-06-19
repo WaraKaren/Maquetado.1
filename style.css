@@ -33,6 +33,8 @@ main {
 
 button{
   cursor: pointer;
+  border-radius: 15px;
+  font-size: 30px;
 }
 
 .dishes{
