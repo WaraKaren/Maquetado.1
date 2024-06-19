@@ -8,6 +8,11 @@ main {
   max-width: 1200px;
   margin: 0 auto;
 }
+
+.titleInfo{
+  font-size: 70px;
+}
+
 /*TODO: 1ra vista*/
 .containerOne {
   display: grid;
